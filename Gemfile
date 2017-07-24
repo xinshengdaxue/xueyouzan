@@ -38,6 +38,7 @@ gem 'bootstrap-sass'
 gem 'ckeditor'
 gem 'simple_form'
 gem 'devise'
+gem 'will_paginate'
 
 
 group :development, :test do
